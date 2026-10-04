@@ -9,6 +9,31 @@ These are prototypes. Expect rough edges.
 
 ## The mods
 
+<<<<<<< HEAD
+| Mod | Game |
+| --- | --- |
+| **RedCraft** | Red Dead Redemption 2 (story mode) |
+| **PeakCraft** | PEAK |
+
+## Download
+
+Everything is on the [Releases](../../releases) page, one release per game.
+
+Each release is a zip containing:
+
+- the mod itself,
+- a **README for that game** with what it needs, how to install it, the controls and the known problems,
+- a second zip with the full source code.
+
+## Before you install any of them
+
+- **You need SkyCraft:** <https://github.com/chasmlol/SkyCraft>.
+  Every mod here uses the Minecraft that SkyCraft installs. It is not included.
+- **Run only one at a time.** They all drive the same Minecraft, so two games at once (or one of
+  these next to Skyrim's SkyCraft) will fight over it.
+
+Anything else a particular game needs is listed in that game's own README.
+=======
 | Mod | Game | Kind of mod | Download |
 | --- | --- | --- | --- |
 | **RedCraft** | Red Dead Redemption 2 (story mode) | ASI plugin for Script Hook RDR2 | [Releases](../../releases) |
@@ -126,6 +151,7 @@ Each release contains a `*-source.zip` with its own build notes.
 
 - **RedCraft:** C++ with CMake and Visual Studio 2022; needs the Script Hook RDR2 SDK.
 - **PeakCraft:** C#; `build.ps1` compiles against your own copy of the game, with nothing downloaded.
+>>>>>>> a1acd492895b9703fe26c4662495645bf9e65aad
 
 ## Credits
 
