@@ -13,6 +13,7 @@ These are prototypes. Expect rough edges.
 | --- | --- |
 | **RedCraft** | Red Dead Redemption 2 (story mode) |
 | **PeakCraft** | PEAK |
+| **ReadyCraft** | Ready or Not |
 
 ## Download
 
